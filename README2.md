@@ -101,6 +101,9 @@ minio-file-manager/
 │   │   │   ├── application.properties
 │   │   │   ├── templates/
 │   │   │   │   ├── jsp/             # JSP views
+│   │   ├── webapp/
+│   │   │   ├── WEB-INF/views
+│   │   │   │   ├── jsp/             # JSP views
 │   ├── test/                        # Unit and integration tests
 ```
 
