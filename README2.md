@@ -99,8 +99,6 @@ minio-file-manager/
 │   │   │   │   ├── service/         # MinIO interaction logic
 │   │   ├── resources/
 │   │   │   ├── application.properties
-│   │   │   ├── templates/
-│   │   │   │   ├── jsp/             # JSP views
 │   │   ├── webapp/
 │   │   │   ├── WEB-INF/views
 │   │   │   │   ├── jsp/             # JSP views
@@ -127,4 +125,4 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ---
 
-Enjoy managing your files with **MinIO File Manager**! 🚀
+Enjoy managing your files ! 🚀
