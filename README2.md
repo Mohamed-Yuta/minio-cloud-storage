@@ -1,5 +1,5 @@
 
-# MinIO File Manager with Spring Boot and JSP
+# MinIO Cloud Storage with Spring Boot and JSP
 
 ## Introduction
 This project is a **Spring Boot application** integrated with **MinIO**, designed to manage file uploads and retrievals using a simple web interface built with JSP (JavaServer Pages). The application demonstrates the integration of MinIO as a storage backend for managing objects while providing an intuitive frontend for user interaction.
